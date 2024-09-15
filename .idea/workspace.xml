@@ -11,7 +11,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f496762b-6814-4aef-a237-62531bc460ef" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo2/Controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo2/Controller/CustomerController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo2/Controller/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo2/Controller/StudentController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -172,7 +171,7 @@
       <option name="presentableId" value="Default" />
       <updated>1726335864055</updated>
       <workItem from="1726335865479" duration="2255000" />
-      <workItem from="1726411702332" duration="2647000" />
+      <workItem from="1726411702332" duration="3973000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -222,7 +221,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726413718543</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="api is working">
+      <option name="closed" value="true" />
+      <created>1726414712414</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1726414712414</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -235,6 +242,7 @@
     <MESSAGE value="created pakages and some classes" />
     <MESSAGE value="adding new Chapter &quot;Student&quot;" />
     <MESSAGE value="adding new Chapter &quot;Student&quot; complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding new Chapter &quot;Student&quot; complete" />
+    <MESSAGE value="api is working" />
+    <option name="LAST_COMMIT_MESSAGE" value="api is working" />
   </component>
 </project>
