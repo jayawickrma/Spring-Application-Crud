@@ -6,4 +6,7 @@ public class AppUtill {
     public static String generateCustomerId(){
         return "Customer ID - " +UUID.randomUUID();
     }
+    public static String generateStudentID(){
+        return "Student ID - "+UUID.randomUUID();
+    }
 }

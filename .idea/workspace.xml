@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f496762b-6814-4aef-a237-62531bc460ef" name="Changes" comment="created pakages and some classes">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo2/DTO/IMPL/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo2/Entity/IMPL/CustomerEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo2/Entity/IMPL/StudentEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo2/Entity/SuperEntity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo2/Controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo2/Controller/CustomerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo2/Utill/AppUtill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo2/Utill/AppUtill.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +60,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "spring.configuration.checksum": "1066726e7160bd9c987c9968e0cc275a",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -106,6 +111,7 @@
       <option name="presentableId" value="Default" />
       <updated>1726335864055</updated>
       <workItem from="1726335865479" duration="2255000" />
+      <workItem from="1726411702332" duration="1052000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
