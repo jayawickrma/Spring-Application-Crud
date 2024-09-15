@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f496762b-6814-4aef-a237-62531bc460ef" name="Changes" comment="created pakages and some classes">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo2/DTO/IMPL/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo2/Entity/IMPL/CustomerEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo2/Entity/IMPL/StudentEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo2/Entity/SuperEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo2/Utill/AppUtill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo2/Utill/AppUtill.java" afterDir="false" />
+    <list default="true" id="f496762b-6814-4aef-a237-62531bc460ef" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo2/Service/IMPL/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo2/Service/StudntService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo2/Entity/IMPL/CustomerEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo2/Entity/IMPL/CustomerEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo2/Entity/IMPL/StudentEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo2/Entity/IMPL/StudentEntity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -111,7 +109,7 @@
       <option name="presentableId" value="Default" />
       <updated>1726335864055</updated>
       <workItem from="1726335865479" duration="2255000" />
-      <workItem from="1726411702332" duration="1052000" />
+      <workItem from="1726411702332" duration="1431000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -137,7 +135,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726337832193</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="adding new Chapter &quot;Student&quot;">
+      <option name="closed" value="true" />
+      <created>1726413073415</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726413073415</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,6 +154,7 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="created pakages" />
     <MESSAGE value="created pakages and some classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="created pakages and some classes" />
+    <MESSAGE value="adding new Chapter &quot;Student&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding new Chapter &quot;Student&quot;" />
   </component>
 </project>
